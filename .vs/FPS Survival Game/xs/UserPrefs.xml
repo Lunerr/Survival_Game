@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{4C9DA049-30A7-6341-A6BB-6EEC5E6C96CC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Weapons Scripts/ArrowBowScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player Scripts/PlayerMovement.cs" Line="11" Column="29" />
+      <File FileName="Assets/Scripts/Helper Scripts/TagHolder.cs" Line="26" Column="51" />
+      <File FileName="Assets/Scripts/Player Scripts/MouseLook.cs" Line="96" Column="76" />
+      <File FileName="Assets/Scripts/Player Scripts/PlayerSprintAndCrouch.cs" Line="68" Column="61" />
+      <File FileName="Assets/Scripts/Player Scripts/PlayerFootsteps.cs" Line="57" Column="39" />
+      <File FileName="Assets/Scripts/Weapons Scripts/WeaponManager.cs" Line="8" Column="37" />
+      <File FileName="Assets/Scripts/Player Scripts/PlayerAttack.cs" Line="192" Column="80" />
+      <File FileName="Assets/Scripts/Weapons Scripts/ArrowBowScript.cs" Line="45" Column="41" />
+      <File FileName="Assets/Scripts/Enemy Scripts/EnemyAnimator.cs" Line="26" Column="53" />
+      <File FileName="Assets/Scripts/Player Scripts/AttackScript.cs" Line="17" Column="81" />
+      <File FileName="Assets/Scripts/Weapons Scripts/WeaponHandler.cs" Line="58" Column="38" />
+      <File FileName="Assets/Scripts/Player Scripts/PlayerAxeWooshSound.cs" Line="16" Column="6" />
+      <File FileName="Assets/Scripts/Enemy Scripts/EnemyController.cs" Line="54" Column="9" />
+      <File FileName="Assets/Scripts/Enemy Scripts/EnemyAudio.cs" Line="18" Column="3" />
+      <File FileName="Assets/Scripts/Player Scripts/PlayerStats.cs" Line="15" Column="47" />
+      <File FileName="Assets/Scripts/Player Scripts/HealthScript.cs" Line="96" Column="51" />
+      <File FileName="Assets/Scripts/Game Manager/EnemyManager.cs" Line="68" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
